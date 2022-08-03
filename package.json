@@ -1,0 +1,23 @@
+{
+  "name": "tailwind-project",
+  "version": "1.0.0",
+  "description": "Taught by net-ninja",
+  "main": "index.js",
+  "scripts": {
+    "build-css": "tailwindcss build src/styles.css -o public/styles.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iamshaunjp/tailwind-tutorial/issues"
+  },
+  "homepage": "",
+  "dependencies": {
+    "tailwindcss": "^1.9.6"
+  }
+}
